@@ -1,0 +1,9 @@
+{
+  "name": "sdn302-kien-three-part-demo",
+  "private": true,
+  "version": "1.0.0",
+  "workspaces": ["backend", "client"],
+  "scripts": {
+    "build": "npm run build --workspace client"
+  }
+}

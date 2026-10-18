@@ -1,0 +1,18 @@
+{
+  "name": "sdn302-kien-react-api-demo",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^5.2.1",
+    "mongoose": "^9.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
