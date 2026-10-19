@@ -1,0 +1,17 @@
+[
+  {
+    "_id": { "$oid": "6ad4ba5d130b1532887eb949" },
+    "name": "Nguyễn Minh An",
+    "mark": 8
+  },
+  {
+    "_id": { "$oid": "6ad4ba5d130b1532887eb94a" },
+    "name": "Trần Gia Huy",
+    "mark": 7
+  },
+  {
+    "_id": { "$oid": "6ad5344afd2cf89f9d36e0b3" },
+    "name": "Rô Na Đỗ",
+    "mark": 7
+  }
+]
